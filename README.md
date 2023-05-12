@@ -5,6 +5,7 @@
 - Language I use Ruby, Python, Java, JavaScript and Rust
 - Reach me at shamithc@gmail.com
 - 👀 I’m interested in watching Football ⚽ 🥅
+- Post Covid Cash Market Trader
 
 <!---
 shamithc/shamithc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
